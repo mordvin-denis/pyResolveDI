@@ -1,4 +1,4 @@
-pyResolveDI: experiment library for resolving methods/function dependencies using parameters
+pyResolveDI: experiment library for resolving methods/function dependencies
 =========================
 
 This experimental library resolves not resolved dependencies of called function/methods/class constructors.
