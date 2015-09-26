@@ -47,7 +47,7 @@ Small using example. Have some services classes.
 
 We should add dependencies to resolve_dependency_settings['resolve_map'] to any scope.
 
-    .. code-block:: python
+.. code-block:: python
 
     >>> resolve_dependency_settings['resolve_map']['app'] = {
     >>>     'threads_num': 3,
